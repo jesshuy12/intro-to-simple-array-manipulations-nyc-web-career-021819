@@ -26,7 +26,7 @@ def using_concat(array, array2)
   array.concat(array2)
 end
 
-def using_inset()
+def using_inset(array, element)
   
 end
 
